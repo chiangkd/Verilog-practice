@@ -1,0 +1,1 @@
+- Follow by [Verilog HDL: A Guide to Digital Design and Synthesis, 2/e](https://www.tenlong.com.tw/products/9789861541044?list_name=srh)
