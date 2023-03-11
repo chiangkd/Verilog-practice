@@ -10,7 +10,7 @@ z2
 cModel Technology
 Z0 d/home/aaron/dic2023/Verilog-practice/testproject
 vadder
-Z1 !s110 1678307403
+Z1 !s110 1678465088
 !i10b 1
 !s100 AgbjAaB50fDg:D05k:3bN0
 Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
@@ -20,13 +20,13 @@ R0
 w1678307390
 Z4 8adder.v
 Z5 Fadder.v
-!i122 6
+!i122 9
 L0 1 17
 Z6 OV;L;2020.1;71
 r1
 !s85 0
 31
-Z7 !s108 1678307403.000000
+Z7 !s108 1678465088.000000
 Z8 !s107 adder.v|tb.v|
 Z9 !s90 tb.v|adder.v|
 !i113 1
@@ -61,10 +61,10 @@ R2
 IHd[>Vd3=P@oGZNJ@Yj50J3
 R3
 R0
-w1678306202
+w1678307432
 8tb.v
 Ftb.v
-!i122 6
+!i122 9
 L0 1 38
 R6
 r1
