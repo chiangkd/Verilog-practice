@@ -2,3 +2,4 @@ testproject/*
 !testproject/*.v
 fbrcc/*
 !fbrcc/*.v
+work
